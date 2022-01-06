@@ -1,24 +1,36 @@
-# README
+# 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+* 
+* 
+* 
+* 
+### サイトテーマ
+* 年齢問わず誰でも友人やコミュニティを作れるWebサイト
 
-Things you may want to cover:
+### テーマを選んだ理由
+* お手軽に共通の趣味や興味のあるもので人と繋がれるサイトを作りたいと思ったため。
+* 
+* 
+* 
+### ターゲットユーザ
+* 年令問わず、人脈の幅を広げたい方
+* 
+### 主な利用シーン
+* 休日に誰かと過ごしたいとき
+* 複数人でイベントを開催したいとき
+## 設計書
+* ER図
 
-* Ruby version
+* テーブル定義書
 
-* System dependencies
+* アプリケーション詳細設計書
 
-* Configuration
 
-* Database creation
+## チャレンジ要素
+* Javascript
+* SQL、運用上のセキュリティ関連
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
