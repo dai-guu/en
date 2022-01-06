@@ -1,8 +1,8 @@
 # en
 
 ## サイト概要
-* 
-* 
+* 「縁」を大切にし、人脈を広げるためのアプリケーション
+* 共通の趣味や興味・関心事で人とつながりを持てる
 * 
 * 
 ### サイトテーマ
@@ -30,7 +30,7 @@
 ## チャレンジ要素
 * Javascript
 * SQL、運用上のセキュリティ関連
-
+* OpenWeatherMap、Google Maps API
 ## 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
