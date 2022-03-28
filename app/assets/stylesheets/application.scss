@@ -18,9 +18,11 @@
 @import 'font-awesome-sprockets';
 @import 'font-awesome';
 
-// .navbar-toggle {
-//     z-index: 2;
-// }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+}
 
 .navbar-brand {
     // position: absolute;  ハンバーガーメニュー開かなくなる
